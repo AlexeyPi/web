@@ -1,11 +1,14 @@
 div{
-   width: 150px; 
+ 
+   float: left;
 
 }
-table{
-    width: 150px;    
-}
-.form-group,.btn-outline-secondary{
+
+.form-group,.btn-primary{
     margin: 10px;
     padding: 10px;
+}
+.btn-outline-secondary{
+    float: left;
+    margin-right: 5px;
 }
