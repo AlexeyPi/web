@@ -1,4 +1,4 @@
-<form id="editForm" action="<?= $_SERVER['PHP_SELF']?>?action=edittodb" method="post">
+<form id="editForm" action="<?= $_SERVER['PHP_SELF']?>?action=save" method="post">
    <div class="form-group">
                 <label>First name:
                 <input type="text" name="first" value="<?= $_POST['first']?>"/>

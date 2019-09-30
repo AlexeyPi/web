@@ -1,4 +1,4 @@
-$("addForm","editForm").submit(function(){
+$("addForm").submit(function(){
     var $form = $(this);
 
     $.ajax({
