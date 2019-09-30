@@ -12,7 +12,7 @@
             </div>
             <div class="form-group">       
                 <label>Email:
-                    <input type="text" name="email" value="<?=$_POST['email']?>" required/>
+                    <input type="email" name="email" value="<?=$_POST['email']?>" required/>
                 </label>
             </div>
                 <input type="hidden" name="id" value="<?= $_POST['id']?>"/>
