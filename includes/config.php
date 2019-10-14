@@ -1,10 +1,10 @@
 <?php
 
 //параметры работы с бд============================================
-const DB_HOST='localhost';
-const DB_USER='root';
-const DB_PASS='';
-const DB_NAME='web';
+const DB_HOST='vvs.mysql.tools';
+const DB_USER='vvs_web';
+const DB_PASS='39Er)S)n4l';
+const DB_NAME='vvs_web';
 
 //отображение=============================
 const TEMPLATE_DEFAULT='template_main';
